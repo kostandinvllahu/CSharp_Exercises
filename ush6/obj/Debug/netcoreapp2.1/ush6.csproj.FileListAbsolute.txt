@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Ush1\ush6\bin\Debug\netcoreapp2.1\ush6.deps.json
+C:\Users\User\source\repos\Ush1\ush6\bin\Debug\netcoreapp2.1\ush6.runtimeconfig.json
+C:\Users\User\source\repos\Ush1\ush6\bin\Debug\netcoreapp2.1\ush6.runtimeconfig.dev.json
+C:\Users\User\source\repos\Ush1\ush6\bin\Debug\netcoreapp2.1\ush6.dll
+C:\Users\User\source\repos\Ush1\ush6\bin\Debug\netcoreapp2.1\ush6.pdb
+C:\Users\User\source\repos\Ush1\ush6\obj\Debug\netcoreapp2.1\ush6.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ush1\ush6\obj\Debug\netcoreapp2.1\ush6.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Ush1\ush6\obj\Debug\netcoreapp2.1\ush6.AssemblyInfo.cs
+C:\Users\User\source\repos\Ush1\ush6\obj\Debug\netcoreapp2.1\ush6.dll
+C:\Users\User\source\repos\Ush1\ush6\obj\Debug\netcoreapp2.1\ush6.pdb
