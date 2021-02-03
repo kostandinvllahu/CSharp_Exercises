@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Ush1\ush7\bin\Debug\netcoreapp2.1\ush7.deps.json
+C:\Users\User\source\repos\Ush1\ush7\bin\Debug\netcoreapp2.1\ush7.runtimeconfig.json
+C:\Users\User\source\repos\Ush1\ush7\bin\Debug\netcoreapp2.1\ush7.runtimeconfig.dev.json
+C:\Users\User\source\repos\Ush1\ush7\bin\Debug\netcoreapp2.1\ush7.dll
+C:\Users\User\source\repos\Ush1\ush7\bin\Debug\netcoreapp2.1\ush7.pdb
+C:\Users\User\source\repos\Ush1\ush7\obj\Debug\netcoreapp2.1\ush7.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ush1\ush7\obj\Debug\netcoreapp2.1\ush7.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Ush1\ush7\obj\Debug\netcoreapp2.1\ush7.AssemblyInfo.cs
+C:\Users\User\source\repos\Ush1\ush7\obj\Debug\netcoreapp2.1\ush7.dll
+C:\Users\User\source\repos\Ush1\ush7\obj\Debug\netcoreapp2.1\ush7.pdb
+C:\Users\User\source\repos\Ush1\ush7\obj\Debug\netcoreapp2.1\ush7.csprojAssemblyReference.cache
