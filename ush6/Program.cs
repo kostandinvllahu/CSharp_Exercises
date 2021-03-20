@@ -9,14 +9,27 @@ namespace ush6
             int num = 0;
             int i = 1;
             int factorial = 1;
-
-            Console.WriteLine("Vendos nje numer: ");
-            num = Convert.ToInt32(Console.ReadLine());
-            for(i = 1; i<=num; i++)
+            Boolean check = false;
+            do
             {
-                factorial = i * factorial;
-            }
-            Console.WriteLine("Faktoriali i " + num + " eshte " + factorial);
+                try
+                {
+                    Console.WriteLine("Input a number: ");
+                    num = Convert.ToInt32(Console.ReadLine());
+                    for (i = 1; i <= num; i++)
+                    {
+                        factorial = i * factorial;
+                    }
+                    Console.WriteLine("Factrial of " + num + " is " + factorial);
+                    check = false;
+                }
+                catch (Exception e)
+                {
+                    check = true;
+                    Console.WriteLine(e.Message);
+                }
+            } while (check == true || num <= 0);
         }
     }
 }
+

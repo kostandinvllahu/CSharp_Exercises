@@ -8,21 +8,35 @@ namespace ush8
         {
             int num = 0;
             int result = 0;
-
-            Console.WriteLine("Vendos vleren e nje nr natyror");
-            num = Convert.ToInt32(Console.ReadLine());
-            if(num < 0)
+            Boolean check = false;
+            do
             {
-                Console.WriteLine("Vetem nr natyror!");
-            }
-            else
-            {
-                for(int i=0; i<=num; i++)
+                try
                 {
-                    result += i;
+                    Console.WriteLine("Input the value of a natural number");
+                    num = Convert.ToInt32(Console.ReadLine());
+                    if (num < 0)
+                    {
+                        Console.WriteLine("Only natural numbers");
+                    }
+                    else
+                    {
+                        for (int i = 0; i <= num; i++)
+                        {
+                            result += i;
+                        }
+                        Console.WriteLine(result);
+                        check = false;
+                    }
                 }
-                Console.WriteLine(result);
+                catch (Exception e)
+                {
+                    check = true;
+                    Console.WriteLine(e.Message);
+                }
             }
+            while (check == true || num <= 0);
         }
+         
     }
 }

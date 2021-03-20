@@ -8,3 +8,4 @@ C:\Users\User\source\repos\Ush1\ush2\obj\Debug\netcoreapp2.1\ush2.AssemblyInfoIn
 C:\Users\User\source\repos\Ush1\ush2\obj\Debug\netcoreapp2.1\ush2.AssemblyInfo.cs
 C:\Users\User\source\repos\Ush1\ush2\obj\Debug\netcoreapp2.1\ush2.dll
 C:\Users\User\source\repos\Ush1\ush2\obj\Debug\netcoreapp2.1\ush2.pdb
+C:\Users\User\source\repos\Ush1\ush2\obj\Debug\netcoreapp2.1\ush2.csprojAssemblyReference.cache

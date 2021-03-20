@@ -5,7 +5,7 @@ namespace ush7
     class Program
     {
 
-        public static void unique(int[] arr)
+        public static void Unique(int[] arr)
         {
             for (int i = 0; i < arr.Length; i++)
             {
@@ -30,7 +30,7 @@ namespace ush7
            int [] arr = { 1, 5, 5, 5, 10, 4, 4, 3, 2 };
             Console.WriteLine("Vlerat: ");
             Array.Sort(arr);
-            unique(arr);
+            Unique(arr);
         }
     }
 }
